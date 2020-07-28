@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64924062485",
+    "firebase_url": "https://proyekandroid-ab7d2.firebaseio.com",
+    "project_id": "proyekandroid-ab7d2",
+    "storage_bucket": "proyekandroid-ab7d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64924062485:android:26e226ebe600b98d",
+        "android_client_info": {
+          "package_name": "com.example.arlyston.proyekandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64924062485-1vgknr0n2ikf8jom80c9jqqrciqgcrmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arlyston.proyekandroid",
+            "certificate_hash": "c6d0ad4e80ffcac2e66e4ba152708d7d81666a7c"
+          }
+        },
+        {
+          "client_id": "64924062485-podso2lsf3g8gkcigd1ipi94qvnk9bvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASIrmKEFIbvXgep6OYJjxA6oU8lT4GtCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64924062485-podso2lsf3g8gkcigd1ipi94qvnk9bvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
